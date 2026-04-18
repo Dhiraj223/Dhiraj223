@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 📍 Based in **Kalyan, India**
 - 🎓 Graduate of **Mumbai University** (BK Birla College)
-- 💻 Currently freelancing in:
+- 💻 Currently working in Mediassist:
   - **LLM Fine-Tuning**
   - **Python API Development**
   - **Cloud Deployments (AWS, Google Cloud)**
